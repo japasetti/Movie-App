@@ -11,4 +11,4 @@
 
 - **index.html**: Structure of the web page.
 - **styles.css**: Stylesheet for visual presentation.
-- **script.js**: Application logic for fetching data and managing favorites.
+- **script.js**: Application logic for fetching data and managing favorite movies.
