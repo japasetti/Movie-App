@@ -12,3 +12,6 @@
 - **index.html**: Structure of the web page.
 - **styles.css**: Stylesheet for visual presentation.
 - **script.js**: Application logic for fetching data and managing favorite movies.
+
+#**Hosted Link**: https://japasetti.github.io/Movie-App/
+#**Repository Link**: https://github.com/japasetti/Movie-App/tree/main
